@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\User\Desktop\4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\User\Desktop\4.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\User\Desktop\4.asm</FILE><LINE>21</LINE></reset>
+  <pprog1><FILE>C:\Users\User\Desktop\4.asm</FILE><LINE>62</LINE></pprog1>
+  <m1><FILE>C:\Users\User\Desktop\4.asm</FILE><LINE>74</LINE></m1>
+  <m2><FILE>C:\Users\User\Desktop\4.asm</FILE><LINE>86</LINE></m2>
+  <exit><FILE>C:\Users\User\Desktop\4.asm</FILE><LINE>59</LINE></exit>
+  <usl1><FILE>C:\Users\User\Desktop\4.asm</FILE><LINE>53</LINE></usl1>
+  <usl2><FILE>C:\Users\User\Desktop\4.asm</FILE><LINE>56</LINE></usl2>
+ </LABELS>
+</ASSEMBLER_INFO>
